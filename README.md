@@ -1,0 +1,1 @@
+# awesome-stable-diffusion-plugins
